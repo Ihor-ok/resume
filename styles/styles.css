@@ -1,0 +1,42 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: rgba(229, 229, 229, 1);
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.main-content {
+    background-color: #FFFFFF;
+}
+
+.project-title {
+    font-size: 45px;
+    color: red;
+}
+
+.about {
+    /* background-color: yellow; */
+}
+
+.projects {
+    /* background-color: aqua;
+    margin: 100px; */
+}
+
+.work {
+    /* background-color: aquamarine;
+    padding: 100px; */
+}
+
+.education {
+    /* background-color: blueviolet; */
+}
+
+.sidebar {
+    background-color: rgba(30, 41, 57, 1);
+}
